@@ -1,6 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [class](class.md)
+## 前奏
+
+* [介绍](README.md)
+
+## 面向对象
+
+* [类](class.md)
 
