@@ -7,4 +7,7 @@
 ## 面向对象
 
 * [类](class.md)
+* [type-hinting](type-hinting.md)
+* privacy
+* constructor
 
