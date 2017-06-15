@@ -15,7 +15,7 @@
 * [Static](static.md)
 * [traits](traits.md)
 * [namespaces](namespaces.md)
-* constants
+* [constants](constants.md)
 * [Services](services.md)
 * Abstract
 * interfaces
