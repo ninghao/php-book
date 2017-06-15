@@ -14,7 +14,7 @@
 * [type-hinting](type-hinting.md)
 * [Static](static.md)
 * [traits](traits.md)
-* namespaces
+* [namespaces](namespaces.md)
 * constants
 * [Services](services.md)
 * Abstract
