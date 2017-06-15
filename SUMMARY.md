@@ -12,7 +12,7 @@
 * [可见性](visibility.md)
 * [构造函数](constructor.md)
 * [type-hinting](type-hinting.md)
-* Static
+* [Static](static.md)
 * traits
 * namespaces
 * constants
