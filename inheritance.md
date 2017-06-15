@@ -25,5 +25,5 @@ $movie = new Movie();
 var_dump($movie);
 ```
 
-在输出的东西里，你会发现 Movie 对象里面会包含 title 属性，即使我们没在 Movie 里定义 $title ，但是 Movie 继承了 Article，所以 Movie 对象里会包含在 Article 里定义的东西。
+在输出的东西里，你会发现 Movie 对象里面会包含 title 属性，即使我们没在 Movie 里定义 title ，但是 Movie 继承了 Article，所以 Movie 对象里会包含在 Article 里定义的东西。
 
