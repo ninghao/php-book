@@ -20,5 +20,5 @@
 * [Abstract](abstract.md)
 * [interfaces](interfaces.md)
 * [Autoload](autoload.md)
-* dependency injection
+* [dependency injection](dependency-injection.md)
 
