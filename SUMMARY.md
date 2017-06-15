@@ -17,7 +17,7 @@
 * [namespaces](namespaces.md)
 * [constants](constants.md)
 * [Services](services.md)
-* Abstract
+* [Abstract](abstract.md)
 * interfaces
 * Autoload
 * dependency injection
