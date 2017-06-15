@@ -13,7 +13,7 @@
 * [构造函数](constructor.md)
 * [type-hinting](type-hinting.md)
 * [Static](static.md)
-* traits
+* [traits](traits.md)
 * namespaces
 * constants
 * [Services](services.md)
