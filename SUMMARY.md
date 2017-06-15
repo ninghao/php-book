@@ -8,6 +8,7 @@
 
 * [类](class.md)
 * [type-hinting](type-hinting.md)
+* [visibility](visibility.md)
 * [privacy](privacy.md)
 * constructor
 
