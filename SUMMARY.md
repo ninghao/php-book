@@ -7,7 +7,7 @@
 ## 面向对象
 
 * [类](class.md)
-* [inheritance](inheritance.md)
+* [继承](inheritance.md)
 * [visibility](visibility.md)
 * [type-hinting](type-hinting.md)
 * constructor
