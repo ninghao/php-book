@@ -7,6 +7,7 @@
 ## 面向对象
 
 * [类](class.md)
+* [Object](object.md)
 * [继承](inheritance.md)
 * [可见性](visibility.md)
 * [构造函数](constructor.md)
