@@ -18,7 +18,7 @@
 * [constants](constants.md)
 * [Services](services.md)
 * [Abstract](abstract.md)
-* interfaces
+* [interfaces](interfaces.md)
 * Autoload
 * dependency injection
 
