@@ -36,20 +36,5 @@ class Dog {
 }
 ```
 
-## $this
-
-在类里，$this 表示当前对象。
-
-添加一个方法叫 `getName()`，在这个方法里用一下 `$this`：
-
-```php
-class Dog {
-  public $name;
-  public function getName() {
-    return $this->name;
-  }
-}
-```
-
 
 
