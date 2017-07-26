@@ -4,6 +4,7 @@
 
 * [介绍](README.md)
 * [macOS：安装 PHP](macos-install-php.md)
+* [windows-install-php](windows-install-php.md)
 
 ## 面向对象
 
