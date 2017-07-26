@@ -3,6 +3,7 @@
 ## 前奏
 
 * [介绍](README.md)
+* [macos-install-php](macos-install-php.md)
 
 ## 面向对象
 
