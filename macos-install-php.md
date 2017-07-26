@@ -1,6 +1,4 @@
-# 在 macOS 上安装 PHP
-
-
+# macOS：安装 PHP
 
 
 
